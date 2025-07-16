@@ -1,4 +1,4 @@
-# 👋 Hi, I’m HsingFeng Huang
+# 👋 Hi, I’m Hsing Feng Huang
 ### 💼 114 高考資訊處理榜首 | 🎓 中原大學資工系
 - 🔭 I'm currently working at Taipei City Government
 - 🌱 I’m currently learning FastAPI, Ghost CMS, and Supabase
