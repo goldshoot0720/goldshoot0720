@@ -1,4 +1,4 @@
-## 草包鋒兄 第12屆台北市長 2038 👋
+## 草包鋒兄 👋
 
 **goldshoot0720/goldshoot0720** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
